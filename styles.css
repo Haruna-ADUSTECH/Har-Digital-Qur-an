@@ -1,63 +1,82 @@
 body {
     font-family: Arial, sans-serif;
+    background-image: url('background.jpg');
+    background-size: cover;
+    color: #fff;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 header {
-    background-color: #333;
-    color: #fff;
-    padding: 10px;
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
     text-align: center;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    margin: 0;
+    font-size: 2.5rem;
 }
 
 main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
     padding: 20px;
 }
 
-#searchInput {
-    width: 100%;
-    padding: 10px;
+.search-container {
+    display: flex;
     margin-bottom: 20px;
+}
+
+#searchInput {
+    padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
+    width: 300px;
 }
 
-ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-li {
-    background-color: #fff;
-    margin: 5px 0;
-    padding: 15px;
-    border: 1px solid #ddd;
+#searchButton {
+    padding: 10px 20px;
+    margin-left: 10px;
+    background-color: #007bff;
+    border: none;
     border-radius: 5px;
+    color: #fff;
     cursor: pointer;
 }
 
-li:hover {
-    background-color: #f9f9f9;
+#searchButton:hover {
+    background-color: #0056b3;
 }
 
-.surah-name {
-    font-weight: bold;
-}
-
-.surah-details {
-    color: #555;
+ul#surahList {
+    list-style: none;
+    padding: 0;
+    width: 100%;
+    max-width: 600px;
 }
 
 #surahDetails {
-    margin-top: 20px;
-    padding: 15px;
-    background-color: #fff;
-    border: 1px solid #ddd;
-    border-radius: 5px;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    width: 100%;
 }
 
 .hidden {
     display: none;
+}
+
+p {
+    margin: 10px 0;
 }
