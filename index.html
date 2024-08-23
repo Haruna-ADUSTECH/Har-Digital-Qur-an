@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Har Digital Qur'an</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Har Digital Qur'an</h1>
+    </header>
+    <main>
+        <input type="text" id="searchInput" placeholder="Search surah..." />
+        <ul id="surahList"></ul>
+        <div id="surahDetails" class="hidden">
+            <h2 id="surahName"></h2>
+            <div id="surahDetailsContent">
+                <p><strong>English:</strong> <span id="englishDetail"></span></p>
+                <p><strong>Hausa:</strong> <span id="hausaDetail"></span></p>
+                <p><strong>Arabic:</strong> <span id="arabicDetail"></span></p>
+            </div>
+        </div>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
