@@ -1,0 +1,1379 @@
+{
+  "surahs": [
+    {
+      "number": 1,
+      "name": "Al-Fatihah",
+      "english_name": "The Opening",
+      "ayahs": 7,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Fatihah is a prayer for guidance, lordship, and mercy. It is the opening chapter of the Qur'an and sets the tone for the rest of the text.",
+        "hausa": "Al-Fatihah addu'a ce ta neman jagora, mulki, da rahama. Shi ne babin farko na Al-Qur'an kuma yana saita yanayin sauran sassan littafin.",
+        "arabic": "الفاتحة دعاء للهداية والربوبية والرحمة. إنها السورة الافتتاحية للقرآن وتحدد نغمة النص بأكمله."
+      }
+    },
+    {
+  "surahs": [
+    {
+      "number": 1,
+      "name": "Al-Fatihah",
+      "english_name": "The Opening",
+      "ayahs": 7,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Fatihah is a prayer for guidance, lordship, and mercy. It is the opening chapter of the Qur'an and sets the tone for the rest of the text.",
+        "hausa": "Al-Fatihah addu'a ce ta neman jagora, mulki, da rahama. Shi ne babin farko na Al-Qur'an kuma yana saita yanayin sauran sassan littafin.",
+        "arabic": "الفاتحة دعاء للهداية والربوبية والرحمة. إنها السورة الافتتاحية للقرآن وتحدد نغمة النص بأكمله."
+      }
+    },
+    {
+      "number": 2,
+      "name": "Al-Baqarah",
+      "english_name": "The Cow",
+      "ayahs": 286,
+      "revelation_type": "Medinan",
+      "details": {
+        "english": "Al-Baqarah is the longest surah in the Qur'an. It covers a wide range of topics including faith, law, and guidance for both individuals and the community.",
+        "hausa": "Al-Baqarah ita ce sura mafi tsawo a cikin Al-Qur'an. Yana rufe nau'ikan batutuwa da yawa ciki har da imani, doka, da jagora ga kowane mutum da al'umma.",
+        "arabic": "البقرة هي أطول سورة في القرآن. تغطي مجموعة واسعة من المواضيع بما في ذلك الإيمان، والقانون، والإرشاد للأفراد والمجتمع."
+      }
+    },
+    {
+      "number": 3,
+      "name": "Aali Imran",
+      "english_name": "The Family of Imran",
+      "ayahs": 200,
+      "revelation_type": "Medinan",
+      "details": {
+        "english": "Aali Imran discusses the family of Imran, including the story of Maryam (Mary) and her son, Jesus. It also deals with the battles of Uhud and the principles of faith.",
+        "hausa": "Aali Imran tana tattauna dangi na Imran, ciki har da labarin Maryam da ɗanta, Yesu. Hakanan yana magana game da yakokin Uhud da ka'idodin imani.",
+        "arabic": "آل عمران تتناول عائلة عمران، بما في ذلك قصة مريم وابنها عيسى. كما تتناول غزوات أحد ومبادئ الإيمان."
+      }
+    },
+    {
+      "number": 4,
+      "name": "An-Nisa",
+      "english_name": "The Women",
+      "ayahs": 176,
+      "revelation_type": "Medinan",
+      "details": {
+        "english": "An-Nisa deals primarily with family law and the rights and responsibilities of women. It provides guidelines on marriage, inheritance, and social justice.",
+        "hausa": "An-Nisa tana magana ne akan doka ta iyali da hakki da alhakin mata. Yana bayar da jagora kan aure, gadon dukiya, da adalci na zamantakewa.",
+        "arabic": "النساء تتناول بشكل رئيسي قانون الأسرة وحقوق ومسؤوليات النساء. توفر إرشادات حول الزواج، والإرث، والعدالة الاجتماعية."
+      }
+    },
+    {
+      "number": 5,
+      "name": "Al-Ma'idah",
+      "english_name": "The Table Spread",
+      "ayahs": 120,
+      "revelation_type": "Medinan",
+      "details": {
+        "english": "Al-Ma'idah addresses various aspects of social and legal issues, including dietary laws, oaths, and the concept of purity.",
+        "hausa": "Al-Ma'idah tana magana akan fannoni daban-daban na batutuwan zamantakewa da doka, ciki har da dokokin abinci, alkawari, da ra'ayin tsabta.",
+        "arabic": "المائدة تتناول جوانب مختلفة من القضايا الاجتماعية والقانونية، بما في ذلك قوانين الطعام، والأيمان، ومفهوم الطهارة."
+      }
+    },
+    {
+      "number": 6,
+      "name": "Al-An'am",
+      "english_name": "The Cattle",
+      "ayahs": 165,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-An'am focuses on monotheism, the rejection of polytheism, and the stories of various prophets. It also discusses the concept of divine guidance.",
+        "hausa": "Al-An'am tana mai da hankali kan tawhidi, ƙin shirk, da labaran annabawa daban-daban. Hakanan yana tattauna ra'ayin jagoranci na Allah.",
+        "arabic": "الأنعام تركز على التوحيد، ورفض الشرك، وقصص الأنبياء المختلفين. كما تناقش مفهوم الهداية الإلهية."
+      }
+    },
+    {
+      "number": 7,
+      "name": "Al-A'raf",
+      "english_name": "The Heights",
+      "ayahs": 206,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-A'raf covers the stories of several prophets and their communities, emphasizing the consequences of disbelief and the importance of following divine guidance.",
+        "hausa": "Al-A'raf tana rufe labaran annabawa da al'ummominsu, tana mai da hankali kan sakamakon kafirci da muhimmancin bin jagorancin Allah.",
+        "arabic": "الأعراف تغطي قصص العديد من الأنبياء وأقوامهم، مبرزة عواقب الكفر وأهمية اتباع الهداية الإلهية."
+      }
+    },
+    {
+      "number": 8,
+      "name": "Al-Anfal",
+      "english_name": "The Spoils of War",
+      "ayahs": 75,
+      "revelation_type": "Medinan",
+      "details": {
+        "english": "Al-Anfal deals with the distribution of war booty, rules of warfare, and the importance of unity among Muslims.",
+        "hausa": "Al-Anfal tana magana akan rabon dukiyar yakin, dokokin yaƙi, da muhimmancin haɗin kai tsakanin Musulmai.",
+        "arabic": "الأنفال تتناول توزيع غنائم الحرب، وقواعد الحرب، وأهمية الوحدة بين المسلمين."
+      }
+    },
+    {
+      "number": 9,
+      "name": "At-Tawbah",
+      "english_name": "The Repentance",
+      "ayahs": 129,
+      "revelation_type": "Medinan",
+      "details": {
+        "english": "At-Tawbah addresses issues of repentance, the treatment of non-Muslims, and the need to uphold justice and honesty in dealing with others.",
+        "hausa": "At-Tawbah tana magana kan batutuwan tuba, yadda za a yi wa ba-Musulmai, da bukatar kiyaye adalci da gaskiya wajen mu'amala da wasu.",
+        "arabic": "التوبة تتناول مسائل التوبة، ومعاملة غير المسلمين، وضرورة الحفاظ على العدالة والأمانة في التعامل مع الآخرين."
+      }
+    },
+    {
+      "number": 10,
+      "name": "Yunus",
+      "english_name": "Jonah",
+      "ayahs": 109,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Yunus discusses the story of Prophet Jonah and his mission, emphasizing the importance of patience and trust in God's plan.",
+        "hausa": "Yunus tana tattauna labarin Annabi Yunus da aikinsa, tana mai da hankali kan muhimmancin hakuri da amana cikin shirin Allah.",
+        "arabic": "يونس تناقش قصة النبي يونس ومهمته، مبرزة أهمية الصبر والثقة في خطة الله."
+      }
+    },
+    {
+      "number": 11,
+      "name": "Hud",
+      "english_name": "Hud",
+      "ayahs": 123,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Hud covers the stories of various prophets, including Prophet Hud, and their struggles with their communities, highlighting the consequences of disbelief.",
+        "hausa": "Hud tana rufe labaran annabawa daban-daban, ciki har da Annabi Hud, da jayayya da al'ummominsu, tana nuna sakamakon kafirci.",
+        "arabic": "هود تغطي قصص العديد من الأنبياء، بما في ذلك النبي هود، وصراعاتهم مع أقوامهم، مبرزة عواقب الكفر."
+      }
+    },
+    {
+      "number": 12,
+      "name": "Yusuf",
+      "english_name": "Joseph",
+      "ayahs": 111,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Yusuf narrates the story of Prophet Joseph, focusing on his trials, patience, and eventual rise to power, emphasizing forgiveness and perseverance.",
+        "hausa": "Yusuf yana ba da labarin Annabi Yusuf, yana mai da hankali kan gwaje-gwajen sa, hakuri, da samun mulki a ƙarshe, yana jaddada yafiya da juriya.",
+        "arabic": "يوسف يروي قصة النبي يوسف، مركزاً على تجاربه، وصبره، وصعوده إلى السلطة في النهاية، مبرزاً التسامح والمثابرة."
+      }
+    },
+    {
+      "number": 13,
+      "name": "Ar-Ra'd",
+      "english_name": "The Thunder",
+      "ayahs": 43,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Ar-Ra'd addresses the concept of divine power and signs of God's existence, using natural phenomena as evidence of His authority.",
+        "hausa": "Ar-Ra'd tana magana kan ra'ayin ƙarfin Allah da alamomin wanzuwar Allah, tana amfani da abubuwan halitta a matsayin shaida na iko.",
+        "arabic": "الرعد تتناول مفهوم القوة الإلهية وآيات وجود الله، مستخدمة الظواهر الطبيعية كدليل على سلطته."
+      }
+    },
+    {
+      "number": 14,
+      "name": "Ibrahim",
+      "english_name": "Abraham",
+      "ayahs": 52,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Ibrahim focuses on the story of Prophet Abraham and his commitment to monotheism. It also emphasizes the importance of patience and reliance on God.",
+        "hausa": "Ibrahim tana mai da hankali kan labarin Annabi Ibrahim da jajircewarsa ga tawhidi. Hakanan yana jaddada muhimmancin hakuri da dogaro ga Allah.",
+        "arabic": "إبراهيم تركز على قصة النبي إبراهيم واهتمامه بالتوحيد. كما تبرز أهمية الصبر والاعتماد على الله."
+      }
+    },
+    {
+      "number": 15,
+      "name": "Al-Hijr",
+      "english_name": "The Rocky Tract",
+      "ayahs": 99,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Hijr discusses the stories of previous prophets and the destruction of their communities as a warning to those who reject divine guidance.",
+        "hausa": "Al-Hijr tana magana akan labaran annabawa na baya da halakar al'ummominsu a matsayin gargaɗi ga waɗanda suka ƙi jagorancin Allah.",
+        "arabic": "الحجر تناقش قصص الأنبياء السابقين وتدمير أقوامهم كتحذير لأولئك الذين يرفضون الهداية الإلهية."
+      }
+    },
+    {
+      "number": 16,
+      "name": "An-Nahl",
+      "english_name": "The Bee",
+      "ayahs": 128,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "An-Nahl highlights the benefits of divine blessings and the need to be grateful to God. It also addresses the concept of divine guidance and the consequences of ingratitude.",
+        "hausa": "An-Nahl tana haskaka amfanin ni'imomin Allah da bukatar zama godiya ga Allah. Hakanan tana magana kan ra'ayin jagorancin Allah da sakamakon rashin godiya.",
+        "arabic": "النحل تسلط الضوء على فوائد النعم الإلهية والحاجة إلى الشكر لله. كما تتناول مفهوم الهداية الإلهية وعواقب عدم الشكر."
+      }
+    },
+    {
+      "number": 17,
+      "name": "Al-Isra",
+      "english_name": "The Night Journey",
+      "ayahs": 111,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Isra narrates the miraculous night journey of Prophet Muhammad to the heavens and emphasizes the importance of prayer and the consequences of disbelief.",
+        "hausa": "Al-Isra tana labarta tafiyar dare mai ban mamaki ta Annabi Muhammad zuwa sama kuma tana jaddada muhimmancin sallah da sakamakon kafirci.",
+        "arabic": "الإسراء تروي رحلة النبي محمد المعجزة إلى السماوات وتبرز أهمية الصلاة وعواقب الكفر."
+      }
+    },
+    {
+      "number": 18,
+      "name": "Al-Kahf",
+      "english_name": "The Cave",
+      "ayahs": 110,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Kahf covers the stories of the People of the Cave, Prophet Moses, and Prophet Khidr. It highlights themes of patience, knowledge, and the trials of faith.",
+        "hausa": "Al-Kahf tana rufe labaran Mutanen Gawa, Annabi Musa, da Annabi Khidr. Yana haskaka jigogi na hakuri, ilimi, da gwaje-gwajen imani.",
+        "arabic": "الكهف تغطي قصص أصحاب الكهف، والنبي موسى، والنبي الخضر. تسلط الضوء على موضوعات الصبر، والمعرفة، وامتحانات الإيمان."
+      }
+    },
+    {
+      "number": 19,
+      "name": "Maryam",
+      "english_name": "Mary",
+      "ayahs": 98,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Maryam recounts the story of Mary and the miraculous birth of Jesus. It emphasizes the concept of divine intervention and the importance of faith.",
+        "hausa": "Maryam tana ba da labarin Maryam da haihuwar Yesu ta hanyar al'ajabi. Yana jaddada ra'ayin tsoma cikin Allah da muhimmancin imani.",
+        "arabic": "مريم تروي قصة مريم والولادة المعجزة لعيسى. تسلط الضوء على مفهوم التدخل الإلهي وأهمية الإيمان."
+      }
+    },
+    {
+      "number": 20,
+      "name": "Ta-Ha",
+      "english_name": "Ta-Ha",
+      "ayahs": 135,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Ta-Ha covers the story of Prophet Moses, including his mission to free the Israelites and the miracles he performed. It emphasizes trust in God and perseverance in the face of challenges.",
+        "hausa": "Ta-Ha tana rufe labarin Annabi Musa, ciki har da aikinsa na 'yantar da Banu Isra'il da al'ajiban da ya yi. Yana jaddada dogaro ga Allah da juriya wajen fuskantar kalubale.",
+        "arabic": "طه تغطي قصة النبي موسى، بما في ذلك مهمته لتحرير بني إسرائيل والمعجزات التي أجراها. تبرز الثقة بالله والمثابرة في مواجهة التحديات."
+      }
+    },
+    {
+      "number": 21,
+      "name": "Al-Anbiya",
+      "english_name": "The Prophets",
+      "ayahs": 112,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Anbiya provides stories of various prophets and their struggles. It highlights the consistent message of monotheism and the consequences of rejecting God's guidance.",
+        "hausa": "Al-Anbiya tana bayar da labaran annabawa daban-daban da jayayyar su. Yana jaddada saƙon tawhidi da sakamakon ƙin bin jagorancin Allah.",
+        "arabic": "الأنبياء تقدم قصص الأنبياء المختلفين وصراعاتهم. تبرز الرسالة المتسقة للتوحيد وعواقب رفض هداية الله."
+      }
+    },
+    {
+      "number": 22,
+      "name": "Al-Hajj",
+      "english_name": "The Pilgrimage",
+      "ayahs": 78,
+      "revelation_type": "Medinan",
+      "details": {
+        "english": "Al-Hajj discusses the rituals of the pilgrimage and the significance of the Hajj pilgrimage in Islam. It also covers themes of faith and submission to God.",
+        "hausa": "Al-Hajj tana magana akan al'adun aikin hajji da muhimmancin aikin hajji a cikin Islama. Hakanan yana rufe jigogi na imani da ƙarƙashin Allah.",
+        "arabic": "الحج تتناول مناسك الحج وأهمية فريضة الحج في الإسلام. كما تغطي موضوعات الإيمان والخضوع لله."
+      }
+    },
+    {
+      "number": 23,
+      "name": "Al-Mu'minun",
+      "english_name": "The Believers",
+      "ayahs": 118,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Mu'minun describes the characteristics of true believers and their rewards. It emphasizes the importance of faith, humility, and sincerity.",
+        "hausa": "Al-Mu'minun tana bayanin halayen masu gaskiya da sakamako nasu. Yana jaddada muhimmancin imani, tawali'u, da gaskiya.",
+        "arabic": "المؤمنون تصف خصائص المؤمنين الحقيقيين ومكافآتهم. تبرز أهمية الإيمان، والتواضع، والإخلاص."
+      }
+    },
+    {
+      "number": 24,
+      "name": "An-Nur",
+      "english_name": "The Light",
+      "ayahs": 64,
+      "revelation_type": "Medinan",
+      "details": {
+        "english": "An-Nur covers various social and legal issues, including family matters, modesty, and the importance of maintaining moral standards.",
+        "hausa": "An-Nur tana rufe batutuwan zamantakewa da doka, ciki har da al'amuran iyali, tawali'u, da muhimmancin kiyaye ka'idodin ɗabi'a.",
+        "arabic": "النور تغطي قضايا اجتماعية وقانونية مختلفة، بما في ذلك قضايا الأسرة، والتواضع، وأهمية الحفاظ على المعايير الأخلاقية."
+      }
+    },
+    {
+      "number": 25,
+      "name": "Al-Furqan",
+      "english_name": "The Criterion",
+      "ayahs": 77,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Furqan emphasizes the importance of the Qur'an as a criterion for truth and falsehood. It also addresses the behavior of disbelievers and the traits of true believers.",
+        "hausa": "Al-Furqan yana jaddada muhimmancin Al-Qur'an a matsayin ma'auni na gaskiya da ƙarya. Hakanan yana magana akan halayen masu ƙin gaskiya da halayen masu gaskiya.",
+        "arabic": "الفرقان تبرز أهمية القرآن كمعيار للحقيقة والباطل. كما تتناول سلوك الكافرين وخصائص المؤمنين الحقيقيين."
+      }
+    },
+    {
+      "number": 26,
+      "name": "Ash-Shu'ara",
+      "english_name": "The Poets",
+      "ayahs": 227,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Ash-Shu'ara provides accounts of various prophets and their encounters with their people, emphasizing the rejection of false claims and the importance of following divine guidance.",
+        "hausa": "Ash-Shu'ara tana bayar da labarai na annabawa daban-daban da haɗuwarsu da mutanensu, tana jaddada ƙin ƙaryar ƙarya da muhimmancin bin jagorancin Allah.",
+        "arabic": "الشعراء تقدم روايات للأنبياء المختلفين ولقائهم مع أقوامهم، مبرزة رفض الادعاءات الزائفة وأهمية اتباع الهداية الإلهية."
+      }
+    },
+    {
+      "number": 27,
+      "name": "An-Naml",
+      "english_name": "The Ant",
+      "ayahs": 93,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "An-Naml covers the stories of Prophet Solomon and other prophets, emphasizing the signs of God in creation and the importance of recognizing divine signs.",
+        "hausa": "An-Naml tana rufe labaran Annabi Suleiman da sauran annabawa, tana jaddada alamomin Allah a cikin halitta da muhimmancin gane alamomin Allah.",
+        "arabic": "النمل تغطي قصص النبي سليمان والأنبياء الآخرين، مبرزة علامات الله في الخلق وأهمية التعرف على العلامات الإلهية."
+      }
+    },
+    {
+      "number": 28,
+      "name": "Al-Ankabut",
+      "english_name": "The Spider",
+      "ayahs": 69,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Ankabut addresses the trials faced by believers and the strength of their faith. It uses the analogy of the spider's web to illustrate the fragility of false beliefs.",
+        "hausa": "Al-Ankabut tana magana akan gwaje-gwajen da masu imani suka fuskanta da ƙarfi na imani nasu. Yana amfani da misalin raga na sauro don nuna rauni na ƙaryar imani.",
+        "arabic": "العنكبوت تتناول التجارب التي يواجهها المؤمنون وقوة إيمانهم. تستخدم تشبيه شبكة العنكبوت لتوضيح هشاشة المعتقدات الزائفة."
+      }
+    },
+    {
+      "number": 29,
+      "name": "Ar-Rum",
+      "english_name": "The Romans",
+      "ayahs": 60,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Ar-Rum discusses the defeat and eventual victory of the Romans over the Persians, highlighting the signs of God's power and the importance of patience and trust.",
+        "hausa": "Ar-Rum tana magana akan rashin nasara da samun nasara daga Turawan Roma akan Persians, tana haskaka alamomin ƙarfin Allah da muhimmancin hakuri da amana.",
+        "arabic": "الروم تناقش هزيمة الروم وانتصارهم لاحقاً على الفرس، مبرزة علامات قوة الله وأهمية الصبر والثقة."
+      }
+    },
+    {
+      "number": 30,
+      "name": "Luqman",
+      "english_name": "Luqman",
+      "ayahs": 34,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Luqman provides wisdom and advice from Prophet Luqman to his son, emphasizing the values of wisdom, gratitude, and patience.",
+        "hausa": "Luqman yana bayar da hikima da shawara daga Annabi Luqman ga ɗansa, yana jaddada ƙimar hikima, godiya, da hakuri.",
+        "arabic": "لقمان يقدم الحكمة والنصائح من النبي لقمان إلى ابنه، مبرزاً قيم الحكمة، والشكر، والصبر."
+      }
+    },
+    {
+      "number": 31,
+      "name": "As-Sajdah",
+      "english_name": "The Prostration",
+      "ayahs": 30,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "As-Sajdah discusses the creation of humans and the importance of prostration in worship. It emphasizes the recognition of God's greatness and the necessity of obedience.",
+        "hausa": "As-Sajdah tana magana akan halittar ɗan adam da muhimmancin sujuda a ibada. Yana jaddada fahimtar girman Allah da bukatar biyayya.",
+        "arabic": "السجدة تناقش خلق الإنسان وأهمية السجود في العبادة. تبرز التعرف على عظمة الله وضرورة الطاعة."
+      }
+    },
+    {
+      "number": 32,
+      "name": "Al-Ahzab",
+      "english_name": "The Confederates",
+      "ayahs": 73,
+      "revelation_type": "Medinan",
+      "details": {
+        "english": "Al-Ahzab addresses the Battle of the Confederates and social issues including the roles of women and the Prophet's family. It emphasizes social justice and moral conduct.",
+        "hausa": "Al-Ahzab tana magana akan Yakin Confederates da batutuwan zamantakewa ciki har da rawar mata da iyalin Annabi. Yana jaddada adalci na zamantakewa da ɗabi'ar ƙwarai.",
+        "arabic": "الأحزاب تتناول غزوة الأحزاب وقضايا اجتماعية بما في ذلك أدوار النساء وأهل النبي. تبرز العدالة الاجتماعية والسلوك الأخلاقي."
+      }
+    },
+    {
+      "number": 34,
+      "name": "Saba",
+      "english_name": "Sheba",
+      "ayahs": 54,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Saba discusses the story of the people of Sheba and the consequences of their ingratitude. It emphasizes the importance of recognizing and thanking God's blessings.",
+        "hausa": "Saba tana magana akan labarin mutanen Sheba da sakamakon rashin godiya. Yana jaddada muhimmancin gane da godiya ga ni'imomin Allah.",
+        "arabic": "سبأ تناقش قصة قوم سبأ وعواقب عدم الشكر. تبرز أهمية التعرف على نعم الله وشكره."
+      }
+    },
+    {
+      "number": 35,
+      "name": "Fatir",
+      "english_name": "The Originator",
+      "ayahs": 45,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Fatir highlights the power of God as the Creator and Sustainer of the universe. It emphasizes the signs of His existence and the need for gratitude.",
+        "hausa": "Fatir tana haskaka ƙarfin Allah a matsayin Mai Halitta da Mai Kula da duniya. Yana jaddada alamomin wanzuwar sa da bukatar godiya.",
+        "arabic": "فاطر تبرز قوة الله كخالق ومربي الكون. تبرز علامات وجوده وضرورة الشكر."
+      }
+    },
+    {
+      "number": 36,
+      "name": "Ya-Sin",
+      "english_name": "Ya-Sin",
+      "ayahs": 83,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Ya-Sin is often referred to as the heart of the Qur'an, focusing on the message of monotheism, the resurrection, and the consequences of disbelief.",
+        "hausa": "Ya-Sin ana yawan kiran ta da zuciyar Al-Qur'an, tana mai da hankali kan saƙon tawhidi, tashin kiyama, da sakamakon ƙin imani.",
+        "arabic": "يس تُعرف غالبًا بقلب القرآن، تركز على رسالة التوحيد، والبعث، وعواقب الكفر."
+      }
+    },
+    {
+      "number": 37,
+      "name": "As-Saffat",
+      "english_name": "Those who set the Ranks",
+      "ayahs": 182,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "As-Saffat narrates the stories of various prophets and their communities, focusing on their devotion to God and their struggles against disbelief.",
+        "hausa": "As-Saffat tana labarta labaran annabawa daban-daban da al'ummominsu, tana mai da hankali kan sadaukarwarsu ga Allah da ƙoƙarin su akan ƙin imani.",
+        "arabic": "الصافات تروي قصص الأنبياء المختلفين وأقوامهم، مبرزة إخلاصهم لله وصراعاتهم ضد الكفر."
+      }
+    },
+    {
+      "number": 38,
+      "name": "Sad",
+      "english_name": "The Letter Sad",
+      "ayahs": 88,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Sad discusses the stories of past prophets and their struggles, emphasizing the consequences of rejecting divine guidance and the importance of following God's message.",
+        "hausa": "Sad tana magana akan labaran annabawa na baya da jayayyar su, tana jaddada sakamakon ƙin bin jagorancin Allah da muhimmancin bin saƙon Allah.",
+        "arabic": "صاد تناقش قصص الأنبياء السابقين وصراعاتهم، مبرزة عواقب رفض الهداية الإلهية وأهمية اتباع رسالة الله."
+      }
+    },
+    {
+      "number": 39,
+      "name": "Az-Zumar",
+      "english_name": "The Troops",
+      "ayahs": 31,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Az-Zumar highlights the distinction between the righteous and the wicked, emphasizing the importance of sincerity in worship and the ultimate judgment by God.",
+        "hausa": "Az-Zumar tana jaddada bambanci tsakanin masu adalci da masu laifi, tana mai da hankali kan muhimmancin gaskiya a ibada da hukuncin Allah na ƙarshe.",
+        "arabic": "الزمر تبرز التمييز بين الصالحين والطالحين، مبرزة أهمية الإخلاص في العبادة والحكم النهائي من الله."
+      }
+    },
+    {
+      "number": 40,
+      "name": "Ghafir",
+      "english_name": "The Forgiver",
+      "ayahs": 85,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Ghafir emphasizes God's forgiveness and mercy, discussing the fate of previous peoples who rejected divine guidance and the importance of repentance.",
+        "hausa": "Ghafir tana jaddada yafiya da jinƙai na Allah, tana magana akan ƙaddarar al'ummominsu na baya da suka ƙi jagorancin Allah da muhimmancin tuba.",
+        "arabic": "غافر تبرز مغفرة الله ورحمته، تناقش مصير الأقوام السابقة الذين رفضوا الهداية الإلهية وأهمية التوبة."
+      }
+    },
+   {
+      "number": 41,
+      "name": "Fussilat",
+      "english_name": "Explained in Detail",
+      "ayahs": 54,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Fussilat provides a detailed explanation of various aspects of faith and the consequences of disbelief. It emphasizes the clarity of divine guidance and the importance of understanding it.",
+        "hausa": "Fussilat tana bayar da cikakken bayani akan fannoni daban-daban na imani da sakamakon ƙin imani. Yana jaddada bayyana jagorancin Allah da muhimmancin fahimtar sa.",
+        "arabic": "فصلت تقدم شرحًا مفصلاً لجوانب مختلفة من الإيمان وعواقب الكفر. تبرز وضوح الهداية الإلهية وأهمية فهمها."
+      }
+    },
+    {
+  "surahs": [
+    {
+      "number": 42,
+      "name": "Ash-Shura",
+      "english_name": "The Consultation",
+      "ayahs": 53,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Ash-Shura emphasizes the importance of consultation and mutual advice. It discusses the role of divine guidance and the need for unity and patience in facing challenges.",
+        "hausa": "Ash-Shura tana jaddada muhimmancin shawara da juna. Tana magana akan rawar jagorancin Allah da bukatar haɗin kai da hakuri wajen fuskantar kalubale.",
+        "arabic": "الشورى تبرز أهمية المشاورة والتشاور. تناقش دور الهداية الإلهية والحاجة إلى الوحدة والصبر في مواجهة التحديات."
+      }
+    },
+    {
+      "number": 43,
+      "name": "Az-Zukhruf",
+      "english_name": "The Gold Adornments",
+      "ayahs": 89,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Az-Zukhruf addresses the rejection of divine guidance by those who seek worldly pleasures. It highlights the consequences of ignoring God's signs and the importance of faith.",
+        "hausa": "Az-Zukhruf tana magana akan ƙin bin jagorancin Allah daga waɗanda ke neman jin daɗin duniya. Yana haskaka sakamakon watsi da alamomin Allah da muhimmancin imani.",
+        "arabic": "الزخرف تتناول رفض الهداية الإلهية من قبل أولئك الذين يسعون وراء المتع الدنيوية. تبرز عواقب تجاهل علامات الله وأهمية الإيمان."
+      }
+    },
+    {
+      "number": 44,
+      "name": "Ad-Dukhan",
+      "english_name": "The Smoke",
+      "ayahs": 59,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Ad-Dukhan describes the Day of Judgment and the consequences of disbelief. It emphasizes the importance of belief in the afterlife and the reality of divine punishment.",
+        "hausa": "Ad-Dukhan tana bayyana Ranar Lahira da sakamakon ƙin imani. Yana jaddada muhimmancin imani da lahira da gaskiyar hukuncin Allah.",
+        "arabic": "الدخان تصف يوم القيامة وعواقب الكفر. تبرز أهمية الإيمان بالآخرة وواقع العقاب الإلهي."
+      }
+    },
+    {
+      "number": 45,
+      "name": "Al-Jathiya",
+      "english_name": "The Crouching",
+      "ayahs": 37,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Jathiya discusses the signs of God's existence and power, emphasizing the importance of recognizing divine signs and the consequences of turning away from them.",
+        "hausa": "Al-Jathiya tana magana akan alamomin wanzuwar Allah da ƙarfin sa, tana jaddada muhimmancin gane alamomin Allah da sakamakon kaucewa daga gare su.",
+        "arabic": "الجاثية تناقش علامات وجود الله وقوته، مبرزة أهمية التعرف على العلامات الإلهية وعواقب التوجه بعيدًا عنها."
+      }
+    },
+    {
+      "number": 46,
+      "name": "Al-Ahqaf",
+      "english_name": "The Wind-Curved Sandhills",
+      "ayahs": 35,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Ahqaf covers the stories of past prophets and their communities, emphasizing the consequences of rejecting divine guidance and the importance of following God's message.",
+        "hausa": "Al-Ahqaf tana magana akan labaran annabawa na baya da al'ummominsu, tana jaddada sakamakon ƙin bin jagorancin Allah da muhimmancin bin saƙon Allah.",
+        "arabic": "الأحقاف تغطي قصص الأنبياء السابقين وأقوامهم، مبرزة عواقب رفض الهداية الإلهية وأهمية اتباع رسالة الله."
+      }
+    },
+    {
+      "number": 47,
+      "name": "Muhammad",
+      "english_name": "Muhammad",
+      "ayahs": 38,
+      "revelation_type": "Medinan",
+      "details": {
+        "english": "Muhammad discusses the qualities of true believers and the importance of following the Prophet Muhammad. It emphasizes the significance of faith and the consequences of disbelief.",
+        "hausa": "Muhammad tana magana akan halayen masu gaskiya da muhimmancin bin Annabi Muhammad. Yana jaddada muhimmancin imani da sakamakon ƙin imani.",
+        "arabic": "محمد تناقش خصائص المؤمنين الحقيقيين وأهمية اتباع النبي محمد. تبرز أهمية الإيمان وعواقب الكفر."
+      }
+    },
+    {
+      "number": 48,
+      "name": "Al-Fath",
+      "english_name": "The Victory",
+      "ayahs": 29,
+      "revelation_type": "Medinan",
+      "details": {
+        "english": "Al-Fath speaks about the Treaty of Hudaybiyyah and its implications for the Muslim community. It emphasizes the importance of patience, trust in God, and the ultimate victory of faith.",
+        "hausa": "Al-Fath tana magana akan Yarjejeniyar Hudaybiyyah da tasirinsa ga al'ummar Musulmi. Yana jaddada muhimmancin hakuri, dogaro ga Allah, da nasarar imani a ƙarshe.",
+        "arabic": "الفتح تتحدث عن صلح الحديبية وتداعياته على المجتمع الإسلامي. تبرز أهمية الصبر، والثقة بالله، وانتصار الإيمان في النهاية."
+      }
+    },
+    {
+      "number": 49,
+      "name": "Al-Hujurat",
+      "english_name": "The Rooms",
+      "ayahs": 18,
+      "revelation_type": "Medinan",
+      "details": {
+        "english": "Al-Hujurat addresses social ethics and proper conduct within the Muslim community. It emphasizes the importance of respect, privacy, and avoiding gossip and backbiting.",
+        "hausa": "Al-Hujurat tana magana akan ɗabi'u na zamantakewa da dacewa cikin al'ummar Musulmi. Yana jaddada muhimmancin girmamawa, sirri, da guje wa yaudara da wulaƙanci.",
+        "arabic": "الحجرات تتناول الأخلاقيات الاجتماعية والسلوك المناسب ضمن المجتمع الإسلامي. تبرز أهمية الاحترام، والخصوصية، وتجنب النميمة والغيبة."
+      }
+    },
+    {
+      "number": 50,
+      "name": "Qaf",
+      "english_name": "The Letter Qaf",
+      "ayahs": 45,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Qaf discusses the signs of God's existence and power, focusing on the resurrection and the fate of those who reject faith. It emphasizes the reality of the afterlife and divine justice.",
+        "hausa": "Qaf tana magana akan alamomin wanzuwar Allah da ƙarfin sa, tana mai da hankali kan tashin kiyama da ƙaddarar waɗanda suka ƙi imani. Yana jaddada gaskiyar lahira da adalcin Allah.",
+        "arabic": "قاف تناقش علامات وجود الله وقوته، مركزة على البعث ومصير من يرفضون الإيمان. تبرز واقع الآخرة والعدالة الإلهية."
+      }
+    },
+    {
+      "number": 51,
+      "name": "Adh-Dhariyat",
+      "english_name": "The Winnowing Winds",
+      "ayahs": 60,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Adh-Dhariyat addresses the signs of God's existence and the importance of monotheism. It emphasizes the role of prophets and the consequences of rejecting divine messages.",
+        "hausa": "Adh-Dhariyat tana magana akan alamomin wanzuwar Allah da muhimmancin tawhidi. Yana jaddada rawar annabawa da sakamakon ƙin karɓar saƙonnin Allah.",
+        "arabic": "الذاريات تتناول علامات وجود الله وأهمية التوحيد. تبرز دور الأنبياء وعواقب رفض الرسائل الإلهية."
+      }
+    },
+    {
+      "number": 52,
+      "name": "At-Tur",
+      "english_name": "The Mount",
+      "ayahs": 49,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "At-Tur discusses the reality of the Day of Judgment and the fate of the disbelievers. It emphasizes the signs of God's power and the ultimate triumph of faith.",
+        "hausa": "At-Tur tana magana akan gaskiyar Ranar Lahira da ƙaddarar waɗanda ba sa imani. Yana jaddada alamomin ƙarfin Allah da nasarar imani a ƙarshe.",
+        "arabic": "الطور تناقش حقيقة يوم القيامة ومصير الكافرين. تبرز علامات قوة الله وانتصار الإيمان في النهاية."
+      }
+    },
+    {
+      "number": 53,
+      "name": "An-Najm",
+      "english_name": "The Star",
+      "ayahs": 62,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "An-Najm emphasizes the divine guidance received by the Prophet Muhammad and the importance of following it. It discusses the nature of revelation and the consequences of disbelief.",
+        "hausa": "An-Najm tana jaddada jagorancin Allah da Annabi Muhammad ya samu da muhimmancin bin sa. Yana magana akan yanayin wahayi da sakamakon ƙin imani.",
+        "arabic": "النجم تبرز الهداية الإلهية التي تلقاها النبي محمد وأهمية اتباعها. تناقش طبيعة الوحي وعواقب الكفر."
+      }
+    },
+    {
+      "number": 54,
+      "name": "Al-Qamar",
+      "english_name": "The Moon",
+      "ayahs": 55,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Qamar addresses the signs of God's power and the fate of previous peoples who rejected divine guidance. It emphasizes the reality of the afterlife and the consequences of disbelief.",
+        "hausa": "Al-Qamar tana magana akan alamomin ƙarfin Allah da ƙaddarar al'ummominsu na baya da suka ƙi jagorancin Allah. Yana jaddada gaskiyar lahira da sakamakon ƙin imani.",
+        "arabic": "القمر تتناول علامات قوة الله ومصير الأقوام السابقة الذين رفضوا الهداية الإلهية. تبرز واقع الآخرة وعواقب الكفر."
+      }
+    },
+    {
+      "number": 55,
+      "name": "Ar-Rahman",
+      "english_name": "The Beneficent",
+      "ayahs": 78,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Ar-Rahman highlights the attributes of God's mercy and the blessings He provides. It emphasizes the need for gratitude and the consequences of ignoring God's favors.",
+        "hausa": "Ar-Rahman tana haskaka siffofin jinƙai na Allah da ni'imomin da ya bayar. Yana jaddada bukatar godiya da sakamakon watsi da ni'imomin Allah.",
+        "arabic": "الرحمن تبرز صفات رحمة الله والنعم التي يمنحها. تبرز الحاجة إلى الشكر وعواقب تجاهل نعم الله."
+      }
+    },
+    {
+      "number": 56,
+      "name": "Al-Waqi'ah",
+      "english_name": "The Inevitable",
+      "ayahs": 96,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Waqi'ah describes the Day of Judgment and the division of people into categories based on their deeds. It emphasizes the certainty of the Day of Judgment and the importance of righteous actions.",
+        "hausa": "Al-Waqi'ah tana bayyana Ranar Lahira da rarrabuwa na mutane bisa ga ayyukansu. Yana jaddada tabbas na Ranar Lahira da muhimmancin ayyuka nagari.",
+        "arabic": "الواقعة تصف يوم القيامة وتقسيم الناس إلى فئات بناءً على أعمالهم. تبرز يقين يوم القيامة وأهمية الأعمال الصالحة."
+      }
+    },
+    {
+      "number": 57,
+      "name": "Al-Hadid",
+      "english_name": "The Iron",
+      "ayahs": 29,
+      "revelation_type": "Medinan",
+      "details": {
+        "english": "Al-Hadid emphasizes the power of God and the importance of faith in Him. It discusses the value of charity and the significance of using one's resources for good.",
+        "hausa": "Al-Hadid tana jaddada ƙarfin Allah da muhimmancin imani da shi. Yana magana akan ƙimar sadaka da muhimmancin amfani da albarkatun mutum don alheri.",
+        "arabic": "الحديد تبرز قوة الله وأهمية الإيمان به. تناقش قيمة الصدقة وأهمية استخدام الموارد في الخير."
+      }
+    },
+    {
+      "number": 58,
+      "name": "Al-Mujadila",
+      "english_name": "The Pleading Woman",
+      "ayahs": 22,
+      "revelation_type": "Medinan",
+      "details": {
+        "english": "Al-Mujadila addresses social and legal issues, including the rights of women and family matters. It emphasizes the importance of justice and proper conduct in society.",
+        "hausa": "Al-Mujadila tana magana akan batutuwan zamantakewa da doka, ciki har da hakkin mata da al'amuran iyali. Yana jaddada muhimmancin adalci da dacewa cikin al'umma.",
+        "arabic": "المجادلة تتناول قضايا اجتماعية وقانونية، بما في ذلك حقوق النساء والمسائل الأسرية. تبرز أهمية العدالة والسلوك المناسب في المجتمع."
+      }
+    },
+    {
+      "number": 59,
+      "name": "Al-Hashr",
+      "english_name": "The Exile",
+      "ayahs": 24,
+      "revelation_type": "Medinan",
+      "details": {
+        "english": "Al-Hashr discusses the expulsion of a Jewish tribe from Medina and the lessons learned from this event. It emphasizes the importance of following divine guidance and the consequences of disobedience.",
+        "hausa": "Al-Hashr tana magana akan korar wata kabilar Yahudawa daga Medina da darussan da aka koya daga wannan lamari. Yana jaddada muhimmancin bin jagorancin Allah da sakamakon rashin bin umarni.",
+        "arabic": "الحشر تناقش طرد قبيلة يهودية من المدينة والدروس المستفادة من هذا الحدث. تبرز أهمية اتباع الهداية الإلهية وعواقب العصيان."
+      }
+    },
+    {
+      "number": 60,
+      "name": "Al-Mumtahina",
+      "english_name": "She that is to be examined",
+      "ayahs": 13,
+      "revelation_type": "Medinan",
+      "details": {
+        "english": "Al-Mumtahina addresses the issue of relationships with non-Muslims and the principles of loyalty and integrity in such interactions. It emphasizes the importance of maintaining faith while navigating social relationships.",
+        "hausa": "Al-Mumtahina tana magana akan batun dangantaka da waɗanda ba Musulmai ba da ka'idodin amana da gaskiya a irin waɗannan hulɗa. Yana jaddada muhimmancin kiyaye imani yayin da ake gudanar da hulɗoɗin zamantakewa.",
+        "arabic": "الممتحنة تتناول قضية العلاقات مع غير المسلمين ومبادئ الولاء والنزاهة في مثل هذه التفاعلات. تبرز أهمية الحفاظ على الإيمان أثناء التعامل مع العلاقات الاجتماعية."
+      }
+    },
+    {
+      "number": 61,
+      "name": "As-Saff",
+      "english_name": "The Ranks",
+      "ayahs": 14,
+      "revelation_type": "Medinan",
+      "details": {
+        "english": "As-Saff discusses the concept of unity and discipline within the Muslim community. It emphasizes the importance of being steadfast in faith and supporting one another in the path of righteousness.",
+        "hausa": "As-Saff tana magana akan ra'ayi na haɗin kai da tsari cikin al'ummar Musulmi. Yana jaddada muhimmancin kasancewa da tsayayye a cikin imani da goyon bayan juna a cikin hanyar ƙwarai.",
+        "arabic": "الصف تتناول مفهوم الوحدة والانضباط داخل المجتمع الإسلامي. تبرز أهمية الثبات في الإيمان ودعم بعضهم البعض في طريق الاستقامة."
+      }
+    },
+    {
+      "number": 62,
+      "name": "Al-Jumu'ah",
+      "english_name": "The Congregation",
+      "ayahs": 11,
+      "revelation_type": "Medinan",
+      "details": {
+        "english": "Al-Jumu'ah highlights the significance of the Friday prayer and the importance of gathering for worship. It emphasizes the need to prioritize spiritual obligations over worldly pursuits.",
+        "hausa": "Al-Jumu'ah tana haskaka muhimmancin sallar Jumma'a da muhimmancin taruwa don ibada. Yana jaddada bukatar fifita wajibai na ruhaniya akan buƙatun duniya.",
+        "arabic": "الجمعة تبرز أهمية صلاة الجمعة وأهمية الاجتماع للعبادة. تبرز الحاجة إلى تقديم الالتزامات الروحية على المشاغل الدنيوية."
+      }
+    },
+    {
+      "number": 63,
+      "name": "Al-Munafiqun",
+      "english_name": "The Hypocrites",
+      "ayahs": 11,
+      "revelation_type": "Medinan",
+      "details": {
+        "english": "Al-Munafiqun addresses the behavior of hypocrites and their impact on the Muslim community. It emphasizes the need for sincerity and the consequences of deceit and falsehood.",
+        "hausa": "Al-Munafiqun tana magana akan halayen munafukai da tasirinsu ga al'ummar Musulmi. Yana jaddada bukatar gaskiya da sakamakon yaudara da ƙarya.",
+        "arabic": "المنافقون تتناول سلوك المنافقين وتأثيرهم على المجتمع الإسلامي. تبرز الحاجة إلى الإخلاص وعواقب الخداع والكذب."
+      }
+    },
+    {
+      "number": 64,
+      "name": "At-Taghabun",
+      "english_name": "The Mutual Disillusion",
+      "ayahs": 18,
+      "revelation_type": "Medinan",
+      "details": {
+        "english": "At-Taghabun discusses the concept of mutual disillusionment on the Day of Judgment, where individuals will regret their actions. It emphasizes the importance of righteous deeds and the certainty of divine reckoning.",
+        "hausa": "At-Taghabun tana magana akan ra'ayin rashin jin daɗi juna a Ranar Lahira, inda mutane za su yi nadama akan ayyukansu. Yana jaddada muhimmancin ayyuka nagari da tabbacin ɗaukar lissafi na Allah.",
+        "arabic": "التغابن تتناول مفهوم الخيبة المتبادلة في يوم القيامة، حيث يندم الناس على أعمالهم. تبرز أهمية الأعمال الصالحة ويقين الحساب الإلهي."
+      }
+    },
+    {
+      "number": 65,
+      "name": "At-Tahrim",
+      "english_name": "The Prohibition",
+      "ayahs": 12,
+      "revelation_type": "Medinan",
+      "details": {
+        "english": "At-Tahrim addresses issues related to family life and the importance of following divine commands. It emphasizes the need to uphold righteousness within the family and avoid actions that displease God.",
+        "hausa": "At-Tahrim tana magana akan batutuwan da suka shafi rayuwar iyali da muhimmancin bin umarnin Allah. Yana jaddada bukatar kiyaye nagarta a cikin iyali da guje wa ayyukan da ba sa farin cikin Allah.",
+        "arabic": "التحريم تتناول قضايا تتعلق بالحياة الأسرية وأهمية اتباع الأوامر الإلهية. تبرز الحاجة إلى الحفاظ على الاستقامة داخل الأسرة وتجنب الأفعال التي لا ترضي الله."
+      }
+    },
+    {
+      "number": 66,
+      "name": "Al-Mulk",
+      "english_name": "The Sovereignty",
+      "ayahs": 30,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Mulk emphasizes God's sovereignty and control over the universe. It discusses the consequences of disbelief and the importance of recognizing God's power and authority.",
+        "hausa": "Al-Mulk tana jaddada mulkin Allah da iko a kan duniya. Yana magana akan sakamakon ƙin imani da muhimmancin gane ƙarfin da ikon Allah.",
+        "arabic": "الملك تبرز سيادة الله وتحكمه على الكون. تناقش عواقب الكفر وأهمية التعرف على قوة الله وسلطته."
+      }
+    },
+    {
+      "number": 67,
+      "name": "Al-Qalam",
+      "english_name": "The Pen",
+      "ayahs": 52,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Qalam addresses the character and behavior of the Prophet Muhammad, emphasizing his patience and perseverance. It discusses the consequences of disbelief and the ultimate triumph of righteousness.",
+        "hausa": "Al-Qalam tana magana akan halaye da ɗabi'un Annabi Muhammad, tana jaddada hakurinsa da ɗorewa. Yana magana akan sakamakon ƙin imani da nasarar nagarta a ƙarshe.",
+        "arabic": "القلم تتناول شخصية وسلوك النبي محمد، مبرزة صبره وثباته. تناقش عواقب الكفر وانتصار الاستقامة في النهاية."
+      }
+    },
+    {
+      "number": 68,
+      "name": "Al-Haaqqa",
+      "english_name": "The Reality",
+      "ayahs": 52,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Haaqqa describes the reality of the Day of Judgment and the fate of the disbelievers. It emphasizes the certainty of divine reckoning and the importance of righteous conduct.",
+        "hausa": "Al-Haaqqa tana bayyana gaskiyar Ranar Lahira da ƙaddarar waɗanda ba sa imani. Yana jaddada tabbacin ɗaukar lissafi na Allah da muhimmancin ayyuka nagari.",
+        "arabic": "الحاقة تصف حقيقة يوم القيامة ومصير الكافرين. تبرز يقين الحساب الإلهي وأهمية السلوك الصالح."
+      }
+    },
+    {
+      "number": 69,
+      "name": "Al-Ma'arij",
+      "english_name": "The Ascending Stairways",
+      "ayahs": 44,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Ma'arij discusses the signs of the Day of Judgment and the characteristics of the disbelievers. It emphasizes the reality of divine punishment and the importance of faith.",
+        "hausa": "Al-Ma'arij tana magana akan alamomin Ranar Lahira da halayen waɗanda ba sa imani. Yana jaddada gaskiyar hukuncin Allah da muhimmancin imani.",
+        "arabic": "المعارج تناقش علامات يوم القيامة وخصائص الكافرين. تبرز واقع العقاب الإلهي وأهمية الإيمان."
+      }
+    },
+    {
+      "number": 70,
+      "name": "Nuh",
+      "english_name": "Noah",
+      "ayahs": 28,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Nuh recounts the story of Prophet Noah and his struggle to guide his people. It emphasizes the consequences of disbelief and the importance of heeding divine guidance.",
+        "hausa": "Nuh tana bada labarin Annabi Nuhu da jayayyar sa wajen jagorantar mutanensa. Yana jaddada sakamakon ƙin imani da muhimmancin bin jagorancin Allah.",
+        "arabic": "نوح يروي قصة النبي نوح وصراعه لتوجيه قومه. تبرز عواقب الكفر وأهمية اتباع الهداية الإلهية."
+      }
+    },
+    {
+      "number": 71,
+      "name": "Al-Jinn",
+      "english_name": "The Jinn",
+      "ayahs": 28,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Jinn discusses the existence and nature of jinn and their response to the divine message. It emphasizes the reality of the unseen and the importance of following God's guidance.",
+        "hausa": "Al-Jinn tana magana akan wanzuwar da dabi'un jinn da martani su ga saƙon Allah. Yana jaddada gaskiyar abin da ba a gani da muhimmancin bin jagorancin Allah.",
+        "arabic": "الجن تناقش وجود وطبيعة الجن واستجابتهم للرسالة الإلهية. تبرز واقع الغيب وأهمية اتباع هداية الله."
+      }
+    },
+    {
+      "number": 72,
+      "name": "Al-Muzzammil",
+      "english_name": "The Enshrouded One",
+      "ayahs": 20,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Muzzammil emphasizes the importance of night prayer and devotion. It discusses the role of the Prophet Muhammad in conveying the message and the challenges faced in doing so.",
+        "hausa": "Al-Muzzammil tana jaddada muhimmancin sallar dare da ibada. Yana magana akan rawar Annabi Muhammad wajen isar da saƙo da kalubalen da ake fuskanta.",
+        "arabic": "المزمل تبرز أهمية صلاة الليل والعبادة. تناقش دور النبي محمد في نقل الرسالة والتحديات التي واجهها في ذلك."
+      }
+    },
+    {
+      "number": 73,
+      "name": "Al-Muddathir",
+      "english_name": "The Cloaked One",
+      "ayahs": 56,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Muddathir discusses the Prophet Muhammad's mission and the responsibilities of delivering God's message. It emphasizes the importance of perseverance and the consequences of disbelief.",
+        "hausa": "Al-Muddathir tana magana akan aikin Annabi Muhammad da hakkin isar da saƙon Allah. Yana jaddada muhimmancin ɗorewa da sakamakon ƙin imani.",
+        "arabic": "المزمل تناقش مهمة النبي محمد ومسؤوليات نقل رسالة الله. تبرز أهمية الصبر وعواقب الكفر."
+      }
+    },
+    {
+      "number": 74,
+      "name": "Al-Qiyamah",
+      "english_name": "The Resurrection",
+      "ayahs": 40,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Qiyamah focuses on the resurrection and the Day of Judgment. It emphasizes the reality of the afterlife and the accountability of individuals for their actions.",
+        "hausa": "Al-Qiyamah tana mayar da hankali kan tashin kiyama da Ranar Lahira. Yana jaddada gaskiyar lahira da lissafin mutane bisa ga ayyukansu.",
+        "arabic": "القيامة تركز على البعث ويوم القيامة. تبرز حقيقة الآخرة ومسؤولية الأفراد عن أعمالهم."
+      }
+    },
+    {
+      "number": 75,
+      "name": "Al-Dahr",
+      "english_name": "Time",
+      "ayahs": 31,
+      "revelation_type": "Medinan",
+      "details": {
+        "english": "Al-Dahr discusses the concept of time and the importance of utilizing it for righteous deeds. It emphasizes the reward for those who do good and the consequences for those who do not.",
+        "hausa": "Al-Dahr tana magana akan ra'ayin lokaci da muhimmancin amfani da shi wajen ayyuka nagari. Yana jaddada sakamako ga waɗanda suke aikata alheri da sakamako ga waɗanda ba sa aikata alheri.",
+        "arabic": "الدهر تناقش مفهوم الزمن وأهمية استخدامه في الأعمال الصالحة. تبرز المكافأة لأولئك الذين يفعلون الخير وعواقب أولئك الذين لا يفعلون."
+      }
+    },
+    {
+  "surahs": [
+    {
+      "number": 76,
+      "name": "Al-Insan",
+      "english_name": "Man",
+      "ayahs": 31,
+      "revelation_type": "Medinan",
+      "details": {
+        "english": "Al-Insan reflects on the creation of man and the trials of life. It emphasizes the reward for those who are patient and charitable and highlights the importance of gratitude and faithfulness.",
+        "hausa": "Al-Insan tana tunani akan halittar mutum da jarabawar rayuwa. Yana jaddada sakamako ga waɗanda ke da hakuri da sadaka da kuma haskaka muhimmancin godiya da aminci.",
+        "arabic": "الإنسان تتأمل في خلق الإنسان وتجارب الحياة. تبرز المكافأة لأولئك الذين يصبرون ويتصدقون وتسلط الضوء على أهمية الشكر والإخلاص."
+      }
+    },
+    {
+      "number": 77,
+      "name": "Al-Mursalat",
+      "english_name": "The Emissaries",
+      "ayahs": 50,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Mursalat describes the divine messengers and the signs of the Day of Judgment. It emphasizes the certainty of the resurrection and the consequences of rejecting God's message.",
+        "hausa": "Al-Mursalat tana bayyana masu isar da saƙo na Allah da alamomin Ranar Lahira. Yana jaddada tabbacin tashin kiyama da sakamakon ƙin amincewa da saƙon Allah.",
+        "arabic": "المرسلات تصف الرسل الإلهيين وعلامات يوم القيامة. تبرز يقين البعث وعواقب رفض رسالة الله."
+      }
+    },
+    {
+      "number": 78,
+      "name": "An-Naba",
+      "english_name": "The Tidings",
+      "ayahs": 40,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "An-Naba discusses the news of the Day of Judgment and the signs of God's power. It highlights the resurrection, the fate of the righteous and the wicked, and the certainty of divine reckoning.",
+        "hausa": "An-Naba tana magana akan labarin Ranar Lahira da alamomin ƙarfin Allah. Yana haskaka tashin kiyama, ƙaddarar masu adalci da mugu, da tabbacin ɗaukar lissafi na Allah.",
+        "arabic": "النبأ تتناول أخبار يوم القيامة وعلامات قوة الله. تبرز البعث ومصير الصالحين والأشرار ويقين الحساب الإلهي."
+      }
+    },
+    {
+      "number": 79,
+      "name": "An-Nazi'at",
+      "english_name": "Those Who Drag Forth",
+      "ayahs": 46,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "An-Nazi'at describes the end times and the resurrection. It discusses the fate of those who reject divine guidance and the ultimate triumph of righteousness.",
+        "hausa": "An-Nazi'at tana bayyana ƙarshen duniya da tashin kiyama. Yana magana akan ƙaddarar waɗanda suka ƙi jagorancin Allah da nasarar nagarta a ƙarshe.",
+        "arabic": "النازعات تصف نهاية العالم والبعث. تناقش مصير الذين يرفضون الهداية الإلهية وانتصار الاستقامة في النهاية."
+      }
+    },
+    {
+      "number": 80,
+      "name": "Abasa",
+      "english_name": "He Frowned",
+      "ayahs": 42,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Abasa addresses the attitude of the Prophet Muhammad towards a blind man and the importance of treating everyone with respect and kindness. It emphasizes the value of sincerity and compassion in guiding others.",
+        "hausa": "Abasa tana magana akan halin Annabi Muhammad ga wani makaho da muhimmancin mu'amala da kowa da girmamawa da jinƙai. Yana jaddada ƙimar gaskiya da jinƙai wajen jagorantar wasu.",
+        "arabic": "عبس تتناول موقف النبي محمد من رجل أعمى وأهمية معاملة الجميع باحترام وطيبة. تبرز قيمة الإخلاص والرحمة في توجيه الآخرين."
+      }
+    },
+    {
+      "number": 81,
+      "name": "At-Takwir",
+      "english_name": "The Overthrowing",
+      "ayahs": 29,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "At-Takwir describes the cosmic upheavals that will occur on the Day of Judgment. It emphasizes the reality of the afterlife and the consequences of one's actions in this life.",
+        "hausa": "At-Takwir tana bayyana canje-canje na duniya da za su faru a Ranar Lahira. Yana jaddada gaskiyar lahira da sakamakon ayyukan mutum a wannan rayuwar.",
+        "arabic": "التكوير تصف الاضطرابات الكونية التي ستحدث في يوم القيامة. تبرز حقيقة الآخرة وعواقب أفعال الإنسان في هذه الحياة."
+      }
+    },
+    {
+      "number": 82,
+      "name": "Al-Infitar",
+      "english_name": "The Cleaving Open",
+      "ayahs": 19,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Infitar describes the events that will unfold on the Day of Judgment and the splitting of the heavens and the earth. It emphasizes the certainty of resurrection and divine judgment.",
+        "hausa": "Al-Infitar tana bayyana abubuwan da za su faru a Ranar Lahira da rarrabuwar sammai da ƙasa. Yana jaddada tabbacin tashin kiyama da hukuncin Allah.",
+        "arabic": "الانفطار تصف الأحداث التي ستحدث في يوم القيامة وشق السماوات والأرض. تبرز يقين البعث والحساب الإلهي."
+      }
+    },
+    {
+      "number": 83,
+      "name": "Al-Mutaffifin",
+      "english_name": "Defrauding",
+      "ayahs": 36,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Mutaffifin condemns the practice of cheating in trade and business. It emphasizes the importance of honesty and fairness and warns against the consequences of deceitful behavior.",
+        "hausa": "Al-Mutaffifin tana la'antar aikin zamba a kasuwanci da harkokin ciniki. Yana jaddada muhimmancin gaskiya da adalci da kuma gargaɗi akan sakamakon halayen yaudara.",
+        "arabic": "المطففين تدين ممارسة الغش في التجارة والأعمال. تبرز أهمية الأمانة والعدالة وتحذر من عواقب السلوك المضلل."
+      }
+    },
+    {
+      "number": 84,
+      "name": "Al-Inshiqaq",
+      "english_name": "The Splitting Open",
+      "ayahs": 25,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Inshiqaq describes the splitting of the heavens and the earth on the Day of Judgment. It emphasizes the importance of righteous deeds and the reality of divine judgment.",
+        "hausa": "Al-Inshiqaq tana bayyana rarrabuwar sammai da ƙasa a Ranar Lahira. Yana jaddada muhimmancin ayyuka nagari da gaskiyar hukuncin Allah.",
+        "arabic": "الانشقاق تصف شق السماوات والأرض في يوم القيامة. تبرز أهمية الأعمال الصالحة وحقيقة الحساب الإلهي."
+      }
+    },
+    {
+      "number": 85,
+      "name": "Al-Buruj",
+      "english_name": "The Mansions of the Stars",
+      "ayahs": 22,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Buruj discusses the fate of those who persecuted believers and the consequences of their actions. It emphasizes God's power and the eventual victory of righteousness.",
+        "hausa": "Al-Buruj tana magana akan ƙaddarar waɗanda suka tsananta wa muminai da sakamakon ayyukansu. Yana jaddada ƙarfin Allah da nasarar nagarta a ƙarshe.",
+        "arabic": "البروج تناقش مصير الذين عذبوا المؤمنين وعواقب أفعالهم. تبرز قوة الله وانتصار الاستقامة في النهاية."
+      }
+    },
+    {
+      "number": 86,
+      "name": "At-Tariq",
+      "english_name": "The Morning Star",
+      "ayahs": 17,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "At-Tariq discusses the creation of man and the divine protection over His creation. It emphasizes the reality of the Day of Judgment and the consequences of one's deeds.",
+        "hausa": "At-Tariq tana magana akan halittar mutum da tsaron Allah akan halittarsa. Yana jaddada gaskiyar Ranar Lahira da sakamakon ayyukan mutum.",
+        "arabic": "الطارق تناقش خلق الإنسان وحماية الله لخلقه. تبرز حقيقة يوم القيامة وعواقب أفعال الإنسان."
+      }
+    },
+    {
+      "number": 87,
+      "name": "Al-A'la",
+      "english_name": "The Most High",
+      "ayahs": 19,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-A'la praises the perfection of God's creation and emphasizes the importance of remembering and worshipping Him. It highlights the certainty of divine judgment and the reward for the righteous.",
+        "hausa": "Al-A'la tana yabon cikakken halittar Allah da jaddada muhimmancin tunawa da bauta masa. Yana haskaka tabbacin hukuncin Allah da sakamako ga masu adalci.",
+        "arabic": "الأعلى يمدح كمال خلق الله ويبرز أهمية ذكره وعبادته. تبرز يقين الحساب الإلهي ومكافأة الصالحين."
+      }
+    },
+    {
+      "number": 88,
+      "name": "Al-Ghashiyah",
+      "english_name": "The Overwhelming",
+      "ayahs": 26,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Ghashiyah describes the overwhelming events of the Day of Judgment and the state of the disbelievers and the believers. It emphasizes the rewards for those who do good and the consequences for those who reject faith.",
+        "hausa": "Al-Ghashiyah tana bayyana abubuwan da za su rinjayi Ranar Lahira da halin waɗanda ba sa imani da masu imani. Yana jaddada sakamako ga waɗanda suke aikata alheri da sakamako ga waɗanda suka ƙi imani.",
+        "arabic": "الغاشية تصف الأحداث التي ستغمر يوم القيامة وحالة الكافرين والمؤمنين. تبرز المكافآت لأولئك الذين يفعلون الخير وعواقب أولئك الذين يرفضون الإيمان."
+      }
+    },
+    {
+      "number": 89,
+      "name": "Al-Fajr",
+      "english_name": "The Dawn",
+      "ayahs": 30,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Fajr reflects on the dawn and the importance of righteous conduct. It describes the fate of past nations and the consequences of their actions.",
+        "hausa": "Al-Fajr tana tunani akan asuba da muhimmancin ayyuka nagari. Yana bayyana ƙaddarar al'ummomin da suka gabata da sakamakon ayyukansu.",
+        "arabic": "الفجر تتأمل في الفجر وأهمية السلوك الصالح. تصف مصير الأمم السابقة وعواقب أفعالهم."
+      }
+    },
+    {
+      "number": 90,
+      "name": "Al-Balad",
+      "english_name": "The City",
+      "ayahs": 20,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Balad discusses the significance of the city of Makkah and the trials faced by the Prophet Muhammad. It emphasizes the importance of righteousness and the rewards for those who endure trials with patience.",
+        "hausa": "Al-Balad tana magana akan muhimmancin birnin Makkah da jarabawar da Annabi Muhammad ya fuskanta. Yana jaddada muhimmancin nagarta da sakamako ga waɗanda suka jure jarabawa da hakuri.",
+        "arabic": "البلد تناقش أهمية مدينة مكة والاختبارات التي واجهها النبي محمد. تبرز أهمية الاستقامة والمكافآت لأولئك الذين يتحملون المصاعب بصبر."
+      }
+    },
+    {
+      "number": 91,
+      "name": "Ash-Shams",
+      "english_name": "The Sun",
+      "ayahs": 15,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Ash-Shams reflects on the sun and its role as a sign of God's creation. It emphasizes the importance of purity and righteousness, and the consequences of ignoring divine guidance.",
+        "hausa": "Ash-Shams tana tunani akan rana da rawar ta a matsayin alamar halittar Allah. Yana jaddada muhimmancin tsarki da nagarta, da sakamakon watsi da jagorancin Allah.",
+        "arabic": "الشمس تتأمل في الشمس ودورها كعلامة لخلق الله. تبرز أهمية الطهارة والاستقامة وعواقب تجاهل الهداية الإلهية."
+      }
+    },
+    {
+      "number": 92,
+      "name": "Al-Lail",
+      "english_name": "The Night",
+      "ayahs": 21,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Lail contrasts the day and night to highlight the differences between those who follow righteousness and those who do not. It emphasizes the reward for the righteous and the punishment for the wicked.",
+        "hausa": "Al-Lail tana kwatanta rana da dare don haskaka bambancin tsakanin waɗanda ke bin nagarta da waɗanda ba sa bi. Yana jaddada sakamako ga masu adalci da hukunci ga mugu.",
+        "arabic": "الليل تقارن بين النهار والليل لتسليط الضوء على الفروقات بين الذين يتبعون الاستقامة وأولئك الذين لا يفعلون. تبرز المكافأة للصالحين والعقوبة للأشرار."
+      }
+    },
+    {
+      "number": 93,
+      "name": "Ad-Duhaa",
+      "english_name": "The Morning Hours",
+      "ayahs": 11,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Ad-Duhaa provides comfort and reassurance to the Prophet Muhammad during a period of hardship. It emphasizes God's mercy and support and encourages perseverance and trust in God's plan.",
+        "hausa": "Ad-Duhaa tana ba da kwanciyar hankali da kwanciyar hankali ga Annabi Muhammad a lokacin wahala. Yana jaddada jinƙai da goyon bayan Allah da kuma ƙarfafa hakuri da amincewa da shirin Allah.",
+        "arabic": "الضحى تقدم الراحة والطمأنينة للنبي محمد خلال فترة صعبة. تبرز رحمة الله ودعمه وتشجع على الصبر والثقة في خطة الله."
+      }
+    },
+    {
+      "number": 94,
+      "name": "Ash-Sharh",
+      "english_name": "The Relief",
+      "ayahs": 8,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Ash-Sharh provides encouragement and solace to the Prophet Muhammad, assuring him that ease follows hardship. It emphasizes the importance of faith and trust in God's wisdom.",
+        "hausa": "Ash-Sharh tana ba da ƙarfafawa da ta'aziyya ga Annabi Muhammad, tana tabbatar masa da cewa sauƙi zai biyo bayan wahala. Yana jaddada muhimmancin imani da amincewa da hikimar Allah.",
+        "arabic": "الشرح تقدم التشجيع والعزاء للنبي محمد، مؤكدة له أن اليسر يأتي بعد العسر. تبرز أهمية الإيمان والثقة في حكمة الله."
+      }
+    },
+    {
+      "number": 95,
+      "name": "At-Tin",
+      "english_name": "The Fig",
+      "ayahs": 8,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "At-Tin reflects on the creation of man and the moral choices he faces. It emphasizes the importance of good conduct and the consequences of one's actions.",
+        "hausa": "At-Tin tana tunani akan halittar mutum da zaɓin halaye da yake fuskanta. Yana jaddada muhimmancin kyakkyawan hali da sakamakon ayyukan mutum.",
+        "arabic": "التين تتأمل في خلق الإنسان والاختيارات الأخلاقية التي يواجهها. تبرز أهمية السلوك الحسن وعواقب أفعال الإنسان."
+      }
+    },
+    {
+      "number": 96,
+      "name": "Al-Alaq",
+      "english_name": "The Clot",
+      "ayahs": 19,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Alaq is one of the earliest revelations, focusing on the creation of man and the importance of knowledge. It emphasizes the need to read and learn as a means to understand God's guidance.",
+        "hausa": "Al-Alaq tana daga cikin farko waɗanda aka saukar, tana mai da hankali akan halittar mutum da muhimmancin ilimi. Yana jaddada bukatar karatu da koyon ilimi a matsayin hanyar fahimtar jagorancin Allah.",
+        "arabic": "العلق هي واحدة من أوائل الوحي، تركز على خلق الإنسان وأهمية المعرفة. تبرز الحاجة إلى القراءة والتعلم كوسيلة لفهم هداية الله."
+      }
+    },
+    {
+      "number": 97,
+      "name": "Al-Qadr",
+      "english_name": "The Power",
+      "ayahs": 5,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Qadr describes the significance of the Night of Decree and the power of God's decree. It emphasizes the importance of seeking God's forgiveness and guidance during this blessed night.",
+        "hausa": "Al-Qadr tana bayyana muhimmancin Dare na Tsari da ƙarfin hukuncin Allah. Yana jaddada muhimmancin neman gafarar Allah da jagoranci a wannan dare mai albarka.",
+        "arabic": "القدر تصف أهمية ليلة القدر وقوة قضاء الله. تبرز أهمية طلب مغفرة الله وهدايته خلال هذه الليلة المباركة."
+      }
+    },
+    {
+      "number": 98,
+      "name": "Al-Bayyina",
+      "english_name": "The Clear Proof",
+      "ayahs": 8,
+      "revelation_type": "Medinan",
+      "details": {
+        "english": "Al-Bayyina discusses the clear proof of God's message and the necessity of faith. It emphasizes the consequences for those who reject the divine message and the rewards for those who accept it.",
+        "hausa": "Al-Bayyina tana magana akan bayyanar saƙon Allah da bukatar imani. Yana jaddada sakamako ga waɗanda suka ƙi saƙon Allah da sakamako ga waɗanda suka karɓa.",
+        "arabic": "البينة تناقش الدليل الواضح على رسالة الله وضرورة الإيمان. تبرز عواقب رفض الرسالة الإلهية ومكافآت قبولها."
+      }
+    },
+    {
+      "number": 99,
+      "name": "Az-Zalzalah",
+      "english_name": "The Earthquake",
+      "ayahs": 8,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Az-Zalzalah describes the great earthquake that will occur on the Day of Judgment. It highlights the accountability of individuals for their deeds and the final judgment.",
+        "hausa": "Az-Zalzalah tana bayyana girman girgizar ƙasa da za ta faru a Ranar Lahira. Yana haskaka lissafin ayyukan mutane da hukuncin ƙarshe.",
+        "arabic": "الزلزلة تصف الزلزال الكبير الذي سيحدث في يوم القيامة. تبرز محاسبة الأفراد على أفعالهم والحكم النهائي."
+      }
+    },
+    {
+      "number": 100,
+      "name": "Al-Adiyat",
+      "english_name": "The Courser",
+      "ayahs": 11,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Adiyat reflects on the power and beauty of horses and the forgetfulness of man. It emphasizes the importance of remembering God's blessings and the consequences of ingratitude.",
+        "hausa": "Al-Adiyat tana tunani akan ƙarfin da kyau na doki da mantuwa na mutum. Yana jaddada muhimmancin tunawa da ni'imomin Allah da sakamakon rashin godiya.",
+        "arabic": "العاديات تتأمل في قوة وجمال الخيول ونسيان الإنسان. تبرز أهمية تذكر نعم الله وعواقب عدم الشكر."
+      }
+    },
+    {
+      "number": 101,
+      "name": "Al-Qari'ah",
+      "english_name": "The Striking Calamity",
+      "ayahs": 11,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Qari'ah describes the striking calamity and the events of the Day of Judgment. It emphasizes the balance of deeds and the ultimate accountability for one's actions.",
+        "hausa": "Al-Qari'ah tana bayyana mummunan bala'i da abubuwan da za su faru a Ranar Lahira. Yana jaddada daidaiton ayyuka da lissafin ƙarshe na ayyukan mutum.",
+        "arabic": "القارعة تصف الكارثة الشديدة وأحداث يوم القيامة. تبرز موازنة الأعمال والمحاسبة النهائية على أفعال الإنسان."
+      }
+    },
+    {
+      "number": 102,
+      "name": "At-Takathur",
+      "english_name": "The Rivalry in world increase",
+      "ayahs": 8,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "At-Takathur addresses the rivalry and competition in worldly gains and the neglect of the Hereafter. It emphasizes the importance of focusing on the afterlife and the consequences of materialism.",
+        "hausa": "At-Takathur tana magana akan gasa da tsunduma a cikin duniya da watsi da lahira. Yana jaddada muhimmancin mai da hankali kan lahira da sakamakon duniya.",
+        "arabic": "التكاثر تتناول التنافس والاندفاع في المكاسب الدنيوية وتجاهل الآخرة. تبرز أهمية التركيز على الآخرة وعواقب المادية."
+      }
+    },
+    {
+      "number": 103,
+      "name": "Al-Asr",
+      "english_name": "The Declining Day",
+      "ayahs": 3,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Asr reflects on the fleeting nature of time and the importance of righteous conduct. It emphasizes that only those who believe, do good deeds, and encourage truth and patience will succeed.",
+        "hausa": "Al-Asr tana tunani akan saurin canjin lokaci da muhimmancin ayyuka nagari. Yana jaddada cewa kawai waɗanda suka yi imani, aikata ayyuka nagari, da ƙarfafa gaskiya da hakuri ne za su yi nasara.",
+        "arabic": "العصر تتأمل في طبيعة الزمن السريع وأهمية السلوك الصالح. تبرز أن الذين يؤمنون ويفعلون الخير ويشجعون على الحق والصبر فقط سينجحون."
+      }
+    },
+    {
+      "number": 104,
+      "name": "Al-Humazah",
+      "english_name": "The Slanderer",
+      "ayahs": 9,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Humazah condemns those who slander and backbite others. It emphasizes the destructive nature of gossip and the consequences for those who indulge in such behavior.",
+        "hausa": "Al-Humazah tana la'antar waɗanda suke fitina da zagin wasu. Yana jaddada halin hallaka na gasa da sakamakon waɗanda suke shiga irin wannan hali.",
+        "arabic": "الهمزة تدين الذين يطعنون ويغتابون الآخرين. تبرز الطبيعة المدمرة للغش وعواقب الذين يشاركون في مثل هذا السلوك."
+      }
+    },
+    {
+      "number": 105,
+      "name": "Al-Fil",
+      "english_name": "The Elephant",
+      "ayahs": 5,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Fil recounts the story of the army of the elephant and their failed attempt to attack the Kaaba. It highlights God's protection over His sacred house and the consequences of arrogance and disbelief.",
+        "hausa": "Al-Fil tana labarin sojojin giwa da kokarinsu na kai hari ga Ka'aba. Yana haskaka kariyar Allah akan gidansa mai tsarki da sakamakon girman kai da ƙin imani.",
+        "arabic": "الفيل تسرد قصة جيش الفيل ومحاولتهم الفاشلة للهجوم على الكعبة. تبرز حماية الله لبيته المقدس وعواقب الغرور والكفر."
+      }
+    },
+    {
+      "number": 106,
+      "name": "Quraish",
+      "english_name": "Quraish",
+      "ayahs": 4,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Quraish addresses the tribe of Quraish and their security and prosperity. It emphasizes the blessings of God and the need to worship and serve Him in gratitude.",
+        "hausa": "Quraish tana magana akan kabilar Quraish da tsaronsu da arziki. Yana jaddada ni'imomin Allah da bukatar bauta da hidima masa a cikin godiya.",
+        "arabic": "قريش تتناول قبيلة قريش وأمنها وازدهارها. تبرز نعم الله والحاجة إلى عبادته وخدمته بالشكر."
+      }
+    },
+    {
+      "number": 107,
+      "name": "Al-Ma'un",
+      "english_name": "The Small Kindnesses",
+      "ayahs": 7,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Ma'un addresses the importance of small acts of kindness and charity. It condemns those who neglect these acts and emphasizes that faith must be demonstrated through action.",
+        "hausa": "Al-Ma'un tana magana akan muhimmancin ƙananan ayyuka na jinƙai da sadaka. Yana la'antar waɗanda suka watsi da waɗannan ayyuka da jaddada cewa imani dole ne a nuna shi ta hanyar aiki.",
+        "arabic": "الماعون تتناول أهمية الأعمال الصغيرة من اللطف والصدقة. تدين الذين يتجاهلون هذه الأفعال وتبرز أن الإيمان يجب أن يُظهر من خلال العمل."
+      }
+    },
+    {
+      "number": 108,
+      "name": "Al-Kawthar",
+      "english_name": "The Abundance",
+      "ayahs": 3,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Kawthar is a short surah that praises the abundance of blessings from God. It instructs the Prophet Muhammad to pray and sacrifice as a form of gratitude.",
+        "hausa": "Al-Kawthar sura ce mai gajere da ke yabon yawan ni'imomin Allah. Yana umurci Annabi Muhammad ya yi addu'a da sadaukarwa a matsayin hanyar godiya.",
+        "arabic": "الكوثر هي سورة قصيرة تمدح وفرة النعم من الله. تأمر النبي محمد بالصلاة والتضحية كوسيلة للشكر."
+      }
+    },
+    {
+      "number": 109,
+      "name": "Al-Kafirun",
+      "english_name": "The Disbelievers",
+      "ayahs": 6,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Kafirun addresses the disbelievers and their rejection of God's message. It emphasizes the distinction between the believers and the disbelievers and the importance of maintaining faith.",
+        "hausa": "Al-Kafirun tana magana akan waɗanda ba sa imani da ƙin karɓar saƙon Allah. Yana jaddada bambanci tsakanin masu imani da waɗanda ba sa imani da muhimmancin riƙe da imani.",
+        "arabic": "الكافرون تتناول الكافرين ورفضهم لرسالة الله. تبرز التمييز بين المؤمنين والكافرين وأهمية الحفاظ على الإيمان."
+      }
+    },
+    {
+      "number": 110,
+      "name": "An-Nasr",
+      "english_name": "The Divine Support",
+      "ayahs": 3,
+      "revelation_type": "Medinan",
+      "details": {
+        "english": "An-Nasr celebrates the victory and support from God. It acknowledges the completion of the Prophet Muhammad's mission and encourages gratitude and seeking forgiveness.",
+        "hausa": "An-Nasr tana murnar nasara da goyon bayan Allah. Yana amince da kammala aikin Annabi Muhammad da ƙarfafa godiya da neman gafara.",
+        "arabic": "النصر يحتفل بالنصر والدعم من الله. يقر بإتمام مهمة النبي محمد ويشجع على الشكر وطلب المغفرة."
+      }
+    },
+    {
+      "number": 111,
+      "name": "Al-Masad",
+      "english_name": "The Palm Fiber",
+      "ayahs": 5,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Masad condemns the actions of Abu Lahab and his wife. It highlights their opposition to Islam and the consequences of their disbelief and enmity.",
+        "hausa": "Al-Masad tana la'antar ayyukan Abu Lahab da matarsa. Yana haskaka adawarsu da Islam da sakamakon ƙin imani da kishin addini.",
+        "arabic": "المسد تدين أفعال أبي لهب وزوجته. تبرز معارضتهم للإسلام وعواقب كفرهم وعدائهم."
+      }
+    },
+    {
+      "number": 112,
+      "name": "Al-Ikhlas",
+      "english_name": "The Sincerity",
+      "ayahs": 4,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Ikhlas emphasizes the oneness and uniqueness of God. It is a declaration of God's absolute monotheism and purity.",
+        "hausa": "Al-Ikhlas tana jaddada daya da keɓantuwar Allah. Yana bayyana tsarkinsa da ka'idar kadaici na Allah.",
+        "arabic": "الإخلاص تبرز وحدة وتميز الله. إنها إعلان عن التوحيد المطلق لله ونقاءه."
+      }
+    },
+    {
+      "number": 113,
+      "name": "Al-Falaq",
+      "english_name": "The Daybreak",
+      "ayahs": 5,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "Al-Falaq seeks refuge in God from the evil of creation. It emphasizes seeking protection from harmful forces and seeking God's help in times of distress.",
+        "hausa": "Al-Falaq tana neman mafaka daga muggan halittu. Yana jaddada neman kariya daga abubuwan da ke cutarwa da neman taimakon Allah a lokacin damuwa.",
+        "arabic": "الفلق تطلب اللجوء إلى الله من شر المخلوقات. تبرز طلب الحماية من القوى الضارة وطلب مساعدة الله في أوقات الشدة."
+      }
+    },
+    {
+      "number": 114,
+      "name": "An-Nas",
+      "english_name": "The Mankind",
+      "ayahs": 6,
+      "revelation_type": "Meccan",
+      "details": {
+        "english": "An-Nas seeks refuge in God from the evil of the whisperer and the deceiver. It emphasizes seeking protection from harmful influences and trusting in God's guidance.",
+        "hausa": "An-Nas tana neman mafaka daga muggan muryar fitina da mayar da hankali. Yana jaddada neman kariya daga tasirin cutarwa da amincewa da jagorancin Allah.",
+        "arabic": "الناس تطلب اللجوء إلى الله من شر الهمس والمخادع. تبرز طلب الحماية من التأثيرات الضارة والثقة في هداية الله."
+      }
+    }
+    // Add more surahs he
+  ]
+}
